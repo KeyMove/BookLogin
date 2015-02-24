@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: BookLogin
+main: booklogin.BookLogin
+version: 1.0.1
+
+commands:
+    BookLogin:
